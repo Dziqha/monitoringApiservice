@@ -1,0 +1,4 @@
+[
+  { "name": "service-todos", "url": "http://localhost:8000/todos" },
+  { "name": "service-health", "url": "http://localhost:8000/healty" }
+]
